@@ -8,3 +8,11 @@ de $5, $10 ou $20, e as compras sejam individuais (não pode acumular todo o din
 depois dar o troco).
 Considerando isso, faça um código que retorne true, caso consiga dar o troco certo, ou retorne false,
 caso não tenha o troco necessário.
+
+Casos testados:
+1) [5,5,5,10,20]
+   Resultado: true
+2) [5,5,10,10,20]
+   Resultado: false
+3) [10,5,5,10,20]
+   Resultado: false
